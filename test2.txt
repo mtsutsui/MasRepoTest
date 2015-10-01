@@ -1,3 +1,6 @@
 test2.txt content
 
+//keep both chgs
 chg 10/1  2:17pm by newbr
+chg 10/1 by master
+
